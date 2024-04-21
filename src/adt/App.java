@@ -1,6 +1,6 @@
 package adt;
 
-import java.util.LinkedList;
+//import java.util.LinkedList;
 
 public class App
 {
@@ -15,7 +15,7 @@ public class App
 		
 		System.out.println(myCounter.getCurrentValue());
 		
-		LinkedList myList = new LinkedList();
+//		LinkedList myList = new LinkedList();
 	}
 
 }
